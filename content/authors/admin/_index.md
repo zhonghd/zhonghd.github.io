@@ -34,72 +34,72 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:zhd23@mails.tsinghua.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://zhonghd.github.io
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://github.com/zhonghd
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/alexjohnsonai/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0001-6151-5783
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Information Technology
+  - Electronics
+  - Integrated Circuits
+  - Medicine
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: M.S. in Integrated Circuits Science and Engineering
+    institution: Tsinghua University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2023-08-20
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Research Area: opAmp, VCO and PLL design
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: B.E. in Microelectronic Science and Engineering
+    institution: Tsinghua University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2018-08-20
+    date_end: 2023-06-24
     summary: |
-      GPA: 4.0/4.0
+      Transferred from Basic Science Class (基科班), Dept. of Physics (Year 1‑2) with a solid foundation in physics and mathematics
+      
+      Graduate with Distinction (Equivalent to Magna Cum Laude, Top 10%)
+  # - area: BS Computer Science
+  #   institution: MIT
+  #   icon: ""
+  #   date_start: 2009-09-01
+  #   date_end: 2013-05-31
+  #   summary: |
+  #     GPA: 3.9/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+  #     Minored in Mathematics. President of AI Club.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Teaching Assistant
+    company_name: Dept. of Electronic Engineering, Tsinghua Univ.
+    company_url: 'https://www.ee.tsinghua.edu.cn/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-09-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      The only TA for a core undergraduate course Fundamentals of Electronic Circuits and Systems with 40+ students.
+  # - position: AI Research Intern
+  #   company_name: OpenAI
+  #   company_url: 'https://openai.com/'
+  #   icon: ''
+  #   date_start: 2019-06-01
+  #   date_end: 2019-12-31
+  #   summary: |
+  #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -136,10 +136,20 @@ skills:
         icon: book-open
 
 languages:
+  - name: Mandarin
+    percent: 97
+  - name: Cantonese
+    percent: 93
   - name: English
-    percent: 100
+    percent: 88
+  - name: Japanese
+    percent: 60
   - name: Spanish
-    percent: 50
+    percent: 60
+  - name: Russian
+    percent: 60
+
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -169,4 +179,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+<!-- Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. -->
+
+Hi, there! I am Hongdong Zhong, and am broadly interested in the intersection of electronics, biology and medicine, and how advances in these fields can improve human health and well‑being. I am particularly interested in exploring novel circuit architectures, signal processing techniques, and system‑level integration strategies to enhance the functionality and reliability of biomedical applications, such as implantable devices, wearable sensors, and neural interfaces. Additionally, I am keen on investigating the potential of emerging technologies, such as Artificial Intelligence, to revolutionize the way how interdisciplinary research is conducted and translated into practical solutions.

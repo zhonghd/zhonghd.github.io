@@ -1,17 +1,17 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
+linkTitle: CAD Tutorials
+title: CAD Tutorials for Fundamentals of Electronic Circuits and System
 date: 2025-09-24
-type: docs
+type: video
 
 tags:
-  - Hugo Blox
   - Course
+  - EE
 
 content_meta:
-  content_type: 'Course'
+  content_type: 'Tutorial'
   difficulty: 'Beginner'
-  prerequisites: ['Markdown']
+  prerequisites: ['None']
   trending: false
 ---
 
@@ -19,10 +19,10 @@ content_meta:
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Bilibili.com](https://www.bilibili.com/video/BV17Pn2zfE5V/).
 
-## Next
+<!-- ## Next
 
 {{< cards >}}
   {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+{{< /cards >}} -->
