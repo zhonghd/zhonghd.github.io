@@ -10,19 +10,15 @@ tags:
 
 content_meta:
   content_type: 'Tutorial'
-  difficulty: 'Beginner'
+  difficulty: 'Undergraduate'
   prerequisites: ['None']
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+The video recording of CAD Tutorials for Fundamentals of Electronic Circuits and System (Fall 2025), 3 episodes in total.
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Bilibili.com](https://www.bilibili.com/video/BV17Pn2zfE5V/).
+For full videos, refer to the [Bilibili.com](https://www.bilibili.com/video/BV17Pn2zfE5V/).
 
-<!-- ## Next
 
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}} -->

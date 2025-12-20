@@ -92,42 +92,46 @@ work:
     date_end: ''
     summary: |2-
       The only TA for a core undergraduate course Fundamentals of Electronic Circuits and Systems with 40+ students.
-  # - position: AI Research Intern
-  #   company_name: OpenAI
-  #   company_url: 'https://openai.com/'
-  #   icon: ''
-  #   date_start: 2019-06-01
-  #   date_end: 2019-12-31
-  #   summary: |
-  #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Mixed-Signal IC Design Intern
+    company_name: BriRadio Microelectronics Technology Co., Ltd.
+    company_url: ''
+    icon: ''
+    date_start: 2022-09-20
+    date_end: 2024-06-20
+    summary: |
+       
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: EDA (Analog flow)
+        description: 'Virtuoso, Spectre, AMS, HSPICE, ADS, EMX'
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
+      - name: EDA (Digital flow)
+        description: 'Modelsim, VCS, Verdi, Xcelium, Design Compiler, ICC, Innovus'
+        percent: 95
+        icon: code-bracket
+      - name: FPGA/Embedded
+        description: 'Altium Designer, JLCEDA, Vivado, Arduino, MSP430, Raspberry Pi'
+        percent: 95
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Programming
+        description: 'Python, C++, Shell, MATLAB, HTML, Verilog, VerilogA, System Verilog'
         percent: 85
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
+      - name: Sports
+        description: 'Badminton, Ice Hockey, Fitness, Hiking, etc.'
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
+      - name: Geeky stuff
+        description: 'BCustom PCs, NAS, Amateur Radio'
         percent: 90
         icon: cpu-chip
       - name: Sci-Fi Reading
@@ -156,29 +160,29 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  # - title: Best Paper Award
+  #   url: https://neurips.cc/
+  #   date: '2022-12-01'
+  #   awarder: NeurIPS
+  #   icon: hero/trophy
+  #   summary: |
+  #     Awarded for groundbreaking work on efficient training of large models.
+  # - title: AI Innovation Grant
+  #   url: https://www.nsf.gov/
+  #   date: '2021-06-15'
+  #   awarder: National Science Foundation
+  #   icon: hero/currency-dollar
+  #   summary: |
+  #     $500,000 grant for research in ethical AI development.
+  - title: Graduate with Distinction (Top 10%)
+    url: https://www.tsinghua.edu.cn/
+    date: '2023-06-24'
+    awarder: Tsinghua University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      
 ---
 
 <!-- Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent. -->
 
-Hi, there! I am Hongdong Zhong, and am broadly interested in the intersection of electronics, biology and medicine, and how advances in these fields can improve human health and well‑being. I am particularly interested in exploring novel circuit architectures, signal processing techniques, and system‑level integration strategies to enhance the functionality and reliability of biomedical applications, such as implantable devices, wearable sensors, and neural interfaces. Additionally, I am keen on investigating the potential of emerging technologies, such as Artificial Intelligence, to revolutionize the way how interdisciplinary research is conducted and translated into practical solutions.
+Hi, there! I am Hongdong Zhong, and I am broadly interested in the intersection of electronics, biology and medicine, and how advances in these fields can improve human health and well‑being. I am particularly interested in exploring novel circuit architectures, signal processing techniques, and system‑level integration strategies to enhance the functionality and reliability of biomedical applications, such as implantable devices, wearable sensors, and neural interfaces. Additionally, I am keen on investigating the potential of emerging technologies, such as Artificial Intelligence, to revolutionize the way how interdisciplinary research is conducted and translated into practical solutions.
