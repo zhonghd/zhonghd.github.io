@@ -98,7 +98,7 @@ work:
     icon: ''
     date_start: 2022-09-20
     date_end: 2024-06-20
-    summary: |
+    summary: ''
        
 
 # Skills
