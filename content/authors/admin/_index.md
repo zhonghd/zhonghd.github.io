@@ -60,7 +60,7 @@ education:
     date_start: 2023-08-20
     date_end: ''
     summary: |
-      Research Area: opAmp, VCO and PLL design
+      Research Area: OpAmp, VCO and PLL design
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com/thesis.pdf'
@@ -131,7 +131,7 @@ skills:
         percent: 80
         icon: person-simple-walk
       - name: Geeky stuff
-        description: 'BCustom PCs, NAS, Amateur Radio'
+        description: 'Custom PCs, NAS, Amateur Radio, etc.'
         percent: 90
         icon: cpu-chip
       - name: Sci-Fi Reading
@@ -147,11 +147,11 @@ languages:
   - name: English
     percent: 88
   - name: Japanese
-    percent: 60
+    percent: 40
   - name: Spanish
-    percent: 60
+    percent: 30
   - name: Russian
-    percent: 60
+    percent: 30
 
 
 
